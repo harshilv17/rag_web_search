@@ -1,0 +1,25 @@
+# Environment
+.env
+*.env
+
+# Vector store data
+data/chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
